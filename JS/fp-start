@@ -3,3 +3,6 @@ https://github.com/MostlyAdequate/mostly-adequate-guide
 - A pure function is a function that, given the same input, will always return the same output, and does not have any observable side effect.
   slice() vs. splice()
   
+(22/10/25)
+- Eric Elliot's Functor
+- https://medium.com/javascript-scene/functors-categories-61e031bac53f
